@@ -4,6 +4,8 @@
  */
 package core.model;
 
+import core.model.persona.Manager;
+import core.model.libro.Book;
 import java.util.ArrayList;
 
 /**

@@ -3,7 +3,27 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Jefferson/MegaferiaGUI/src/core/MegaferiaFrame.java</file>
+            <file>file:/C:/Users/Lab6k/Downloads/MegaferiaGUI/src/core/controller/libro/LibroFisicoController.java</file>
+            <file>file:/C:/Users/Lab6k/Downloads/MegaferiaGUI/src/core/controller/libro/AudioLibroController.java</file>
+            <file>file:/C:/Users/Lab6k/Downloads/MegaferiaGUI/src/core/controller/libro/LibroVirtualController.java</file>
+            <file>file:/C:/Users/Lab6k/Downloads/MegaferiaGUI/src/core/controller/autores/AutorController.java</file>
+            <file>file:/C:/Users/Lab6k/Downloads/MegaferiaGUI/src/core/controller/autores/AutorToLibroController.java</file>
+            <file>file:/C:/Users/Lab6k/Downloads/MegaferiaGUI/src/core/controller/table/EditorialTable.java</file>
+            <file>file:/C:/Users/Lab6k/Downloads/MegaferiaGUI/src/core/controller/stand/StandController.java</file>
+            <file>file:/C:/Users/Lab6k/Downloads/MegaferiaGUI/src/core/controller/stand/AddStandForCompra.java</file>
+            <file>file:/C:/Users/Lab6k/Downloads/MegaferiaGUI/src/core/controller/stand/BuyStand.java</file>
+            <file>file:/C:/Users/Lab6k/Downloads/MegaferiaGUI/src/core/controller/narrator/NarradorController.java</file>
+            <file>file:/C:/Users/Lab6k/Downloads/MegaferiaGUI/src/core/controller/narrator/NarratorAudioBookService.java</file>
+            <file>file:/C:/Users/Lab6k/Downloads/MegaferiaGUI/src/core/controller/GerenteController.java</file>
+            <file>file:/C:/Users/Lab6k/Downloads/MegaferiaGUI/src/core/controller/editorial/EditorialController.java</file>
+            <file>file:/C:/Users/Lab6k/Downloads/MegaferiaGUI/src/core/controller/editorial/AddEditorialForCompra.java</file>
+            <file>file:/C:/Users/Lab6k/Downloads/MegaferiaGUI/src/core/controller/table/PersonaTable.java</file>
+            <file>file:/C:/Users/Lab6k/Downloads/MegaferiaGUI/src/core/controller/table/StandTable.java</file>
+            <file>file:/C:/Users/Lab6k/Downloads/MegaferiaGUI/src/core/controller/table/LibroTable.java</file>
+            <file>file:/C:/Users/Lab6k/Downloads/MegaferiaGUI/src/core/controller/table/consultasAdd/LibroAutorTable.java</file>
+            <file>file:/C:/Users/Lab6k/Downloads/MegaferiaGUI/src/core/controller/table/consultasAdd/LibroFormatoTable.java</file>
+            <file>file:/C:/Users/Lab6k/Downloads/MegaferiaGUI/src/core/controller/table/consultasAdd/AutoresConAddTable.java</file>
+            <file>file:/C:/Users/Lab6k/Downloads/MegaferiaGUI/src/core/view/MegaferiaFrame.java</file>
         </group>
     </open-files>
 </project-private>
